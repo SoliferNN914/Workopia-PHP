@@ -1,0 +1,14 @@
+{
+    "name": "oscar/workopia",
+    "description": "Job advertisement website",
+    "authors": [{
+        "name": "Oscar",
+        "email": "oscarlnx49@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
